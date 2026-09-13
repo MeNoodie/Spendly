@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-google-genai
+langchain-openai
+pandas
+pillow
+python-dotenv
+fastapi
+uvicorn
+aiofiles
